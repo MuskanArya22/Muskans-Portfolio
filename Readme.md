@@ -10,8 +10,9 @@ Welcome to my portfolio! Here you will find a collection of my projects and work
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+-[Portfolio Screenshot](#Portfolioscreenshot)
 - [Contact](#contact)
-- [License](#license)
+
 
 ## Introduction
 
@@ -109,6 +110,10 @@ If you would like to contribute to any of my projects, please follow these steps
    ```
 
 6. Open a pull request
+
+## Portfolio Screenshot
+
+![Portfolio Screenshot](dist\assets\Screenshot.png)
 
 ## Contact
 
