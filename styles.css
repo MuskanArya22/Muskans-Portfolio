@@ -869,4 +869,37 @@ small {
 	.mail-link {
 		justify-content: center;
 	}
+
+	.contact-details {
+		display: flex;
+		flex-direction: column;
+		gap: 15px;
+		margin-top: 20px;
+	}
+	
+	.contact-item {
+		display: flex;
+		align-items: center;
+		gap: 10px;
+	}
+	
+	.contact-item i {
+		font-size: 1.5em;
+		color: hsl(160, 100%, 70%);; /* Adjust color to match your theme */
+	}
+	
+	.contact-info {
+		font-size: 1em;
+		color: #797878;
+	}
+	
+	.contact-info a {
+		color: hsl(160, 100%, 70%);;
+		text-decoration: none;
+	}
+	
+	.contact-info a:hover {
+		text-decoration: underline;
+	}
+	
 }
